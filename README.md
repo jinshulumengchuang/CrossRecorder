@@ -1,2 +1,2 @@
 # CrossRecorder
-Cross plantform recoder app by html and js
+https://jinshulumengchuang.github.io
